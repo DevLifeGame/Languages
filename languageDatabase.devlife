@@ -1,0 +1,7 @@
+{
+    "languages":
+    [
+        {"languageName": "English", "languageFilePath": "English.json", "languageNameInEnglish": "English"},
+        {"languageName": "Polski", "languageFilePath": "Polish.json", "languageNameInEnglish": "Polish"}
+    ]
+}
