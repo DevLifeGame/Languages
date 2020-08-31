@@ -205,7 +205,7 @@
 		{"key": "game_panel_employees_button_tooltip", "value": "Chercher des employés."},
 		{"key": "game_panel_find_employees_button_tooltip", "value": "Look for employees."},
 		{"key": "game_panel_manage_employees_button_tooltip", "value": "Manage your employees."},
-		{"key": "game_panel_character_age_tooltip", "value": "Âge du personnage.\nAnniversaire: <b>{0} {1}</b>"},
+		{"key": "game_panel_character_age_tooltip", "value": "Âge du personnage.\nAnniversaire : <b>{0} {1}</b>"},
 		{"key": "game_panel_character_level_tooltip", "value": "<b>Niveau du personnage. Cliquez ici pour voir vos compétences.</b>\n\n<color=#FFF74B><b>Éxpérience: {0}/{1}</b></color>"},
 		{"key": "game_panel_character_money_tooltip", "value": "Argent de votre peronnage. Cliquez ici pour voir les détails."},
 		{"key": "game_panel_character_fans_tooltip", "value": "Fans de votre personnage."},
