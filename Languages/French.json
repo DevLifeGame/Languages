@@ -87,7 +87,7 @@
 		{"key": "skill_info_programming_tooltip", "value": "Points de la compétence <color=#2980B9><b>programmation</b></color>."},
 		{"key": "skill_info_testing_tooltip", "value": "Points de la compétence <color=#E67E22><b>tests</b></color>."},
 		{"key": "skill_info_type_tooltip", "value": "<b>{0} </b>"},
-		{"key": "skill_info_controls_tooltip", "value": "\n\n<size=12>utilisez le clic gauche pour sélectionner. Double cliquez pour amélioré.</size>"},
+		{"key": "skill_info_controls_tooltip", "value": "\n\n<size=12>Utilisez le clic gauche pour sélectionner. Double cliquez pour amélioré.</size>"},
 		{"key": "skill_info_unlocked", "value": "<color=#16A085><b>>Débloqué </b></color>"},
 		{"key": "skill_info_locked", "value": "<color=#E74C3C><b>Bloqué </b></color>"},
 		{"key": "skill_points_info", "value": "Points de compétence : {0}"},
