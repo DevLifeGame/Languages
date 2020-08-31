@@ -479,7 +479,7 @@
 		{"key": "employee_in_list_panel_detailed_salary", "value": "{0}$"},
 		{"key": "employee_in_list_panel_detailed_skill_points", "value": "<align=left>Statistique de l'employé :</align><line-height=0.00001>\n<align=right>Skill Points : {0}</align><line-height=0.00001>"},
 		{"key": "employee_in_list_panel_detailed_level_progress", "value": "Progression du niveau :"},
-		{"key": "employee_in_list_panel_detailed_energy", "value": "Employee Energy:"},
+		{"key": "employee_in_list_panel_detailed_energy", "value": "Énergie de l'employé :"},
 		{"key": "employee_in_list_panel_detailed_dismiss_button", "value": "Renvoyé"},
 		{"key": "employee_in_list_panel_detailed_dismiss_button_not_interactable_tooltip", "value": "You can't dismiss yourself!"},
 		{"key": "employee_in_list_panel_detailed_dismiss_button_confirmation", "value": "Êtes vous sûr de vouloir viré <color=#FFF74B><b>{0} ?</b></color>"},
