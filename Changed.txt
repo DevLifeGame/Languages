@@ -2,7 +2,6 @@
 
 --- NEW LINES ---
 
-Key: "employee_manager_summary_value"
 
 
 --- CHANGED LINES ---
