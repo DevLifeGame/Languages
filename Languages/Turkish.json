@@ -557,6 +557,7 @@
 		{"key": "employee_manager_employee_list_header", "value": "Hired Employees"},
 		{"key": "employee_manager_employee_details_header", "value": "Employee Details"},
 		{"key": "employee_manager_summary_header", "value": "Summary"},
+		{"key": "employee_manager_summary_value", "value": "Hired Employees: <color=#64B5F6><b>{0}/{1}</b></color> Total Employees Salary: <color=#16A085><b>{0}$</b></color>"},
 		{"key": "employee_manager_selected_employee_to_see_details_info", "value": "Click on the employee in the list\nto view details about them."},
 		{"key": "employee_retired_message_title", "value": "{0} Retired"},
 		{"key": "employee_retired_message_content", "value": "<size=22><color=#64B5F6><b>Employee Retired! </b></color></size>\n\n{0} - one of your employees turned 67 and retired!"},

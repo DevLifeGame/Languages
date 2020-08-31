@@ -557,6 +557,7 @@
 		{"key": "employee_manager_employee_list_header", "value": "Zatrudniani Pracownicy"},
 		{"key": "employee_manager_employee_details_header", "value": "Szczegóły Pracownika"},
 		{"key": "employee_manager_summary_header", "value": "Podsumowanie"},
+		{"key": "employee_manager_summary_value", "value": "Zatrudniani Pracownicy: <color=#64B5F6><b>{0}/{1}</b></color> Łączna Pensja Pracowników: <color=#16A085><b>{0}$</b></color>"},
 		{"key": "employee_manager_selected_employee_to_see_details_info", "value": "Kliknij na pracownika w liście obok,\naby wyświetlić jego szczegóły."},
 		{"key": "employee_retired_message_title", "value": "Pracownik udał się na emeryturę - {0}"},
 		{"key": "employee_retired_message_content", "value": "<size=22><color=#64B5F6><b>Odejście na emeryturę! </b></color></size>\n\n{0} - jeden z twoich pracowników skończył właśnie 67 lat i udał się na zasłużoną emeryturę!"},
