@@ -7,6 +7,7 @@
         {"languageName": "Français", "languageFilePath": "French.json", "languageNameInEnglish": "French"},
         {"languageName": "Português", "languageFilePath": "Portuguese.json", "languageNameInEnglish": "Portuguese"},
         {"languageName": "Dansk", "languageFilePath": "Danish.json", "languageNameInEnglish": "Danish"},
-        {"languageName": "Türkçe", "languageFilePath": "Turkish.json", "languageNameInEnglish": "Turkish"}
+        {"languageName": "Türkçe", "languageFilePath": "Turkish.json", "languageNameInEnglish": "Turkish"},
+		{"languageName": "Spanish", "languageFilePath": "Spanish.json", "languageNameInEnglish": "Spanish"}
     ]
 }
