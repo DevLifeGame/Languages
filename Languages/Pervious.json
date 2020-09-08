@@ -1154,7 +1154,7 @@
 		{"key": "quick_notification_company_fans_gained", "value": "Your company got {0} new fans! You got {1}!"},
 		{"key": "quick_notification_company_fans_lost", "value": "Your company lost {0} fans and you {1} :("},
 		{"key": "quick_notification_bills_paid", "value": "You paid your bills! - {0}$"},
-		{"key": "quick_notification_company_bills_paid", "value": "You paid your company bills! - {0}$"},
+		{"key": "quick_notification_company_bills_paid", "value": "You paid your bills!\nPersonal: <color=#E74C3C><b>{0}$</b></color>\nCompany: <color=#E74C3C><b>{1}$</b></color>"},
 		{"key": "quick_notification_company_and_personal_bills_paid", "value": "You paid your bills!\nPersonal: <color=#E74C3C><b>{0}$</b></color>\nCompany: <color=#E74C3C><b>{1}$</b></color>"},
 		{"key": "quick_notification_game_saved", "value": "The game has been saved!"},
 		{"key": "quick_notification_selecting_required_components_locked", "value": "Selecting required components is locked. Upgrade your company!"},
