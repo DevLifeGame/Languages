@@ -2,7 +2,58 @@
 
 --- NEW LINES ---
 
+Key: "component_info_locked_learn_it_tooltip"
+Key: "company_upgrade_can_upgrade_tooltip"
+Key: "settings_language_community_tooltip"
+Key: "credits_translators"
+Key: "skill_tree_change_employee_button"
+Key: "commissions_search_manager_button"
+Key: "employee_manager_look_for_employees_button"
+Key: "location_manager_header"
+Key: "location_manager_location_info"
+Key: "location_manager_buy_button"
+Key: "location_manager_go_to_location_button"
+Key: "location_manager_go_to_location_button_current_location"
+Key: "location_manager_going_between_locations_tooltip"
+Key: "location_owned_info"
+Key: "location_for_sale_info"
+Key: "location_return_info"
+Key: "company_manager_company_upgrades_available_tooltip"
+Key: "company_manager_goals_header"
+Key: "company_manager_goals_summary"
+Key: "company_manager_goals_no_available_info"
+Key: "company_upgrades_category_commissions_tooltip"
+Key: "company_upgrades_category_employees_tooltip"
+Key: "company_upgrades_category_projects_tooltip"
+Key: "company_upgrades_category_finance_tooltip"
+Key: "company_upgrades_required_company_level"
+Key: "company_upgrades_upgrade_panel_company_level_tooltip"
+Key: "company_upgrades_bottom_panel_company_experience_tooltip"
+Key: "company_upgrades_bottom_panel_locked_info"
+Key: "company_upgrades_bottom_panel_unlocked_info"
+Key: "company_upgrades_bottom_panel_level_info"
+Key: "company_upgrades_bottom_panel_level_max_info"
 
 
 --- CHANGED LINES ---
 
+
+Key: "employee_search_manager_button"
+Old Value: "Manage Found"
+New Value: "Manage Hired"
+
+Key: "company_manager_find_commissions_button"
+Old Value: "Find Commissions"
+New Value: "Manage Commissions"
+
+Key: "company_manager_hire_employees_button"
+Old Value: "Hire Employees"
+New Value: "Manage Employees"
+
+Key: "company_upgrades_bottom_panel_skill_ponts"
+Old Value: "Upgrade Points: {0}"
+New Value: "Company Level: <color=#FFF74B><b>{0}</b></color>   Upgrade Points: <color=#FFF74B><b>{1}</b></color>"
+
+Key: "tutorial_stage_hiring_employees_description"
+Old Value: "Creating company allows you to hire more employees. The whole process of searching for employees is very similar to searching commissions.\n\nChoose search criteria, assign employee to perform the search and at the end see the message with the results.\n\nEvery location has the maximum number of employees which you can have at the time. In first location you can hire only one additional employee.\n\nIf you want to hire more, you'll have to buy new location. More on that in the next tutorial stage.\n\n<color=#FFF74B><b>Tip: Remember that some search criteria may be incompatible with each other and therefore prevent you from finding the right candidate.</b></color>"
+New Value: "Creating company allows you to hire more employees. The whole process of searching for employees is very similar to searching commissions.\n\nChoose search criteria, assign employee to perform the search and at the end see the message with the results.\n\nEvery location has the maximum number of employees which you can have at the time. In first location you can hire only one additional employee.\n\nIf you want to hire more, you'll have to buy new location. More on that in the next tutorial stage.\n\nIf you decide that you don't need your employees anymore you can fire them in the Employees Manager. There you will also find more information about the employees you hire. \n\n<color=#FFF74B><b>Tip: Remember that some search criteria may be incompatible with each other and therefore prevent you from finding the right candidate.</b></color>"
