@@ -209,6 +209,7 @@
 		{"key": "game_panel_finance_button_tooltip", "value": "Manage dine financer eller tag et lån."},
 		{"key": "game_panel_employees_button_tooltip", "value": "Find medarbejdere."},
 		{"key": "game_panel_find_employees_button_tooltip", "value": "Look for employees."},
+		{"key": "game_panel_locations_button_tooltip", "value": "Locations Manager."},
 		{"key": "game_panel_manage_employees_button_tooltip", "value": "Manage your employees."},
 		{"key": "game_panel_character_age_tooltip", "value": "Din karakters alder.\nFødselsdag: <b>{0} {1}</b>"},
 		{"key": "game_panel_character_level_tooltip", "value": "<b>Din karakters niveau. Klik her for at se dine evner.</b>\n\n<color=#FFF74B><b>Erfaring: {0}/{1}</b></color>"},

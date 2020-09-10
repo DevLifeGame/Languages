@@ -209,6 +209,7 @@
 		{"key": "game_panel_finance_button_tooltip", "value": "Administre sus finanzas o solicite un préstamo."},
 		{"key": "game_panel_employees_button_tooltip", "value": "Empleados."},
 		{"key": "game_panel_find_employees_button_tooltip", "value": "Busca empleados."},
+		{"key": "game_panel_locations_button_tooltip", "value": "Locations Manager."},
 		{"key": "game_panel_manage_employees_button_tooltip", "value": "Administra a tus empleados."},
 		{"key": "game_panel_character_age_tooltip", "value": "Edad de tu personaje.\nCumpleaños: <b>{0} {1}</b>"},
 		{"key": "game_panel_character_level_tooltip", "value": "<b>Tu nivel de personaje. Haga clic aquí para ver sus habilidades.</b>\n\n<color=#FFF74B><b>Experiencia: {0}/{1}</b></color>"},
