@@ -398,6 +398,7 @@
 		{"key": "workstation_menu_send_on_vacation_button", "value": "Wyślij na Urlop"},
 		{"key": "workstation_menu_send_on_vacation_button_tooltip", "value": "Pracownik jest przepracowany. Kliknij tutaj, aby wysłać go na urlop."},
 		{"key": "workstation_menu_send_on_vacation_not_interactable_tooltip", "value": "Pracownik nie jest zmęczony."},
+		{"key": "workstation_menu_send_on_vacation_employee_busy_tooltip", "value": "Nie możesz wysyłać pracowników na wakacje, gdy ci są zajęci."},
 		{"key": "workstation_menu_remove_employee_button", "value": "Usuń Pracownika"},
 		{"key": "workstation_menu_remove_employee_button_not_interactable_learning_tooltip", "value": "Nie możesz usunąć ze stanowiska pracownika, który uczy się nowej umiejętności."},
 		{"key": "workstation_menu_take_time_off_button", "value": "Weź Wolne"},

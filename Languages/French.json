@@ -398,6 +398,7 @@
 		{"key": "workstation_menu_send_on_vacation_button", "value": "Envoyer en vacances"},
 		{"key": "workstation_menu_send_on_vacation_button_tooltip", "value": "Employee is overworked. Click here to choose vacation option."},
 		{"key": "workstation_menu_send_on_vacation_not_interactable_tooltip", "value": "Employee is not tired."},
+		{"key": "workstation_menu_send_on_vacation_employee_busy_tooltip", "value": "You can't send employees on vacation while they are busy."},
 		{"key": "workstation_menu_remove_employee_button", "value": "Retirer l'employé"},
 		{"key": "workstation_menu_remove_employee_button_not_interactable_learning_tooltip", "value": "Vous ne pouvez pas retirer un employé qui apprend une nouvelle compétence de ce burreau."},
 		{"key": "workstation_menu_take_time_off_button", "value": "Take Time Off"},
