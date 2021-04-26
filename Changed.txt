@@ -899,6 +899,9 @@ Key: "transaction_global_crisis_losses"
 Key: "interactive_event_covid_disease_course_player_death_ignored_symptoms_title"
 Key: "interactive_event_covid_disease_course_player_death_ignored_symptoms_description"
 Key: "interactive_event_covid_disease_course_player_death_ignored_symptoms_choice"
+Key: "workstation_tracker_employee_traits_header"
+Key: "commission_panel_size_header"
+Key: "own_project_info_type_header"
 
 
 --- CHANGED LINES ---
@@ -979,3 +982,27 @@ New Value: "Due to the worrying situation on the national market, the government
 Key: "interactive_event_vacation_adventure_music_festival_unforgettable_night_no_hangover_choice"
 Old Value: "I don't feel so good..."
 New Value: "That was amazing!"
+
+Key: "credits_3d_models_artist_game_designer"
+Old Value: "<b><color=#FFF74B>3D Models Artist</color>\nBartłomiej Lewczuk\n\n<color=#FFF74B>Game Designer</color>\nMichał \"Misieq10\" Paciorek</b>"
+New Value: "<b>\n<color=#FFF74B>3D Models Artist</color>\nBartłomiej Lewczuk\n\n<color=#FFF74B>2D Graphics Artist</color>\nMateusz \"Peu\" Łaski\n\n</b>"
+
+Key: "credits_ui_advisor_pr_marketing"
+Old Value: "<b><color=#FFF74B>UI Adviser</color>\nDenis Szwarc\n\n<color=#FFF74B>PR / Marketing</color>\nAdrian Wesołowski</b>"
+New Value: "<b><color=#FFF74B>Game Designer</color>\nMichał \"Misieq10\" Paciorek\n\n<color=#FFF74B>UI Adviser</color>\nDenis Szwarc\n\n<color=#FFF74B>PR / Marketing</color>\nAdrian Wesołowski</b>"
+
+Key: "credits_translators"
+Old Value: "<b><color=#FFF74B>Translators</b></color>\nTurkish - <b>Galahad</b>   French - <b>Karmator, MikioToka</b>   Danish - <b>bddshad</b>\nPortuguese - <b>Fuscão Preto</b>   German - <b>U3000</b>   Japanese - <b>marsuki007</b>\nSpanish - <b>andresuito</b>"
+New Value: "<b><color=#FFF74B>Translators</b></color>\nTurkish - <b>Galahad</b>   French - <b>Karmator, MikioToka, Yerylik</b>   Danish - <b>bddshad</b>\nPortuguese - <b>Fuscão Preto</b>   German - <b>U3000</b>   Japanese - <b>marsuki007</b>\nSpanish - <b>andresuito</b>"
+
+Key: "credits_additional_thanks"
+Old Value: "<b>Special thanks to <color=#FFF74B>Mateusz Łaski</color> and all others who helped\nwith testing and gave feedback about the game!</b>"
+New Value: "<b>Special thanks to everyone who helped with testing\nand gave feedback about the game!</b>"
+
+Key: "commission_panel_header"
+Old Value: "{0}\n<size=14><b><color=#FFF74B>{1}"
+New Value: "{0}"
+
+Key: "own_project_info_header"
+Old Value: "{0}\n<size=14><b><color=#FFF74B>{1}</color></b></size>"
+New Value: "{0}"
