@@ -3,12 +3,10 @@
     [
         {"languageName": "English", "languageFilePath": "English.json", "languageNameInEnglish": "English"},
         {"languageName": "Polski", "languageFilePath": "Polish.json", "languageNameInEnglish": "Polish"},
-        {"languageName": "Deutsch", "languageFilePath": "German.json", "languageNameInEnglish": "German"},
         {"languageName": "Français", "languageFilePath": "French.json", "languageNameInEnglish": "French"},
         {"languageName": "Português", "languageFilePath": "Portuguese.json", "languageNameInEnglish": "Portuguese"},
         {"languageName": "Dansk", "languageFilePath": "Danish.json", "languageNameInEnglish": "Danish"},
         {"languageName": "Türkçe", "languageFilePath": "Turkish.json", "languageNameInEnglish": "Turkish"},
-		{"languageName": "Spanish", "languageFilePath": "Spanish.json", "languageNameInEnglish": "Spanish"},
-		{"languageName": "Japanese", "languageFilePath": "Japanese.json", "languageNameInEnglish": "Japanese"}
+		{"languageName": "Spanish", "languageFilePath": "Spanish.json", "languageNameInEnglish": "Spanish"}
     ]
 }
