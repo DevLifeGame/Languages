@@ -1991,6 +1991,8 @@
 		{"key": "quick_notification_skill_learning_finished", "value": "{0} ukończył_a naukę {1}!"},
 		{"key": "quick_notification_skill_learning_finished_progress", "value": "Postęp nauki: <color=#FFF74B><b>{2}% ({0}/{1})</b></color>"},
 		{"key": "quick_notification_not_available_in_demo", "value": "Ta opcja nie jest już dłużej dostępna w wersji demo!"},
+		{"key": "quick_notification_added_trait", "value": "{0} zyskał_a cechę: {1}"},
+		{"key": "quick_notification_lost_trait", "value": "{0} stracił_a cechę: {1}"},
 		{"key": "permament_notification_player_level_up_title", "value": "<b>Nowy poziom!</b>"},
 		{"key": "permament_notification_player_level_up", "value": "<b>Gratulacje! Twoja postać właśnie awansowała na {0} poziom!</b>\n\n<size=15>Kliknij tutaj, aby rozdać Punkty Umiejętności!</size>"},
 		{"key": "permament_notification_player_unlearned_skills_title", "value": "<b>Nienauczone Umiejętności</b>"},

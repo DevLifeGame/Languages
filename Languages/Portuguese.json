@@ -1991,6 +1991,8 @@
 		{"key": "quick_notification_skill_learning_finished", "value": "{0} finished learning {1}!"},
 		{"key": "quick_notification_skill_learning_finished_progress", "value": "Learning Progress: <color=#FFF74B><b>{2}% ({0}/{1})</b></color>"},
 		{"key": "quick_notification_not_available_in_demo", "value": "This option is no longer available in the demo version!"},
+		{"key": "quick_notification_added_trait", "value": "{0} gained trait: {1}"},
+		{"key": "quick_notification_lost_trait", "value": "{0} lost trait: {1}"},
 		{"key": "permament_notification_player_level_up_title", "value": "<b>Character leveled up!</b>"},
 		{"key": "permament_notification_player_level_up", "value": "<b>You just reached {0} level!</b>\n\n<size=15>Click here to spend Skill Points!</size>"},
 		{"key": "permament_notification_player_unlearned_skills_title", "value": "<b>Unlearned Skills</b>"},

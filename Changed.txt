@@ -2,6 +2,8 @@
 
 --- NEW LINES ---
 
+Key: "quick_notification_added_trait"
+Key: "quick_notification_lost_trait"
 Key: "employee_trait_off_work_terrorists_attack"
 Key: "employee_trait_off_work_terrorists_attack_description_player"
 Key: "employee_trait_off_work_terrorists_attack_description_employee"
