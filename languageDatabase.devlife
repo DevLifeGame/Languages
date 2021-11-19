@@ -7,6 +7,12 @@
         {"languageName": "Português", "languageFilePath": "Portuguese.json", "languageNameInEnglish": "Portuguese"},
         {"languageName": "Dansk", "languageFilePath": "Danish.json", "languageNameInEnglish": "Danish"},
         {"languageName": "Türkçe", "languageFilePath": "Turkish.json", "languageNameInEnglish": "Turkish"},
+<<<<<<< Updated upstream
 		{"languageName": "Spanish", "languageFilePath": "Spanish.json", "languageNameInEnglish": "Spanish"}
+=======
+		{"languageName": "Spanish", "languageFilePath": "Spanish.json", "languageNameInEnglish": "Spanish"},
+		{"languageName": "Japanese", "languageFilePath": "Japanese.json", "languageNameInEnglish": "Japanese"},
+        {"languageName": "Russian", "languageFilePath": "Russian.json", "languageNameInEnglish": "Russian"}
+>>>>>>> Stashed changes
     ]
 }
