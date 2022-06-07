@@ -1055,6 +1055,10 @@ Key: "save_description_with_company"
 Old Value: "Last played: {0}\nLevel: {1} | Money: {2}$ | Company Money: {3}$"
 New Value: "Last played: {0} | {4} {5}\nLevel: {1} | Money: {2}$ | Company Money: {3}$"
 
+Key: "credits_3d_models_artist_game_designer"
+Old Value: "<b>\n<color=#FFF74B>3D Models Artist</color>\nBartłomiej Lewczuk\n\n<color=#FFF74B>2D Graphics Artist</color>\nMateusz \"Peu\" Łaski\n\n</b>"
+New Value: "<b><color=#FFF74B>3D Models Artist</color>\nBartłomiej Lewczuk\n\n<color=#FFF74B>2D Graphics Artist</color>\nMateusz \"Peu\" Łaski\n\n<color=#FFF74B>Additional Writing</color>\nBartek \"TheGhostChild\" Kiryluk</b>"
+
 Key: "credits_translators"
 Old Value: "<b><color=#FFF74B>Translators</b></color>\nTurkish - <b>Galahad</b>   French - <b>Karmator, MikioToka, Yerylik</b>   Danish - <b>bddshad</b>\nPortuguese - <b>Fuscão Preto</b>   German - <b>U3000</b>   Japanese - <b>marsuki007</b>\nSpanish - <b>andresuito</b>"
 New Value: "<b><color=#FFF74B>Translators</b></color>\nTurkish - <b>Galahad</b>   French - <b>Karmator, MikioToka, Yerylik</b>   Danish - <b>bddshad</b>\nPortuguese - <b>Fuscão Preto</b>   Spanish - <b>andresuito</b>   Russian - <b>ZHE5TJ</b>"
@@ -1089,11 +1093,11 @@ New Value: "<size=+2>Employee <color=#9B59B6><b>design</b></color> stats in <b>{
 
 Key: "employee_stats_programming_tooltip"
 Old Value: "Employee <color=#2980B9><b>programming</b></color> stats."
-New Value: "<size=+2>Employee <color=#2980B9><b>programming</b></color> stats <b>{0}</b>.</size>\n\nCurrent: <color=#2980B9><b>{1}/100</b></color>\nPossible: <color=#2980B9><b>{2}/100</b></color>\n\n<b>Unlocked Skills:</b> {3}"
+New Value: "<size=+2>Employee <color=#2980B9><b>programming</b></color> stats in <b>{0}</b>.</size>\n\nCurrent: <color=#2980B9><b>{1}/100</b></color>\nPossible: <color=#2980B9><b>{2}/100</b></color>\n\n<b>Unlocked Skills:</b> {3}"
 
 Key: "employee_stats_testing_tooltip"
 Old Value: "Employee <color=#E67E22><b>testing</b></color> stats."
-New Value: "<size=+2>Employee <color=#E67E22><b>testing</b></color> stats <b>{0}</b>.</size>\n\nCurrent: <color=#E67E22><b>{1}/100</b></color>\nPossible: <color=#E67E22><b>{2}/100</b></color>\n\n<b>Unlocked Skills:</b> {3}"
+New Value: "<size=+2>Employee <color=#E67E22><b>testing</b></color> stats in <b>{0}</b>.</size>\n\nCurrent: <color=#E67E22><b>{1}/100</b></color>\nPossible: <color=#E67E22><b>{2}/100</b></color>\n\n<b>Unlocked Skills:</b> {3}"
 
 Key: "furniture_unlocked_message_value"
 Old Value: "<b>- {0}\n"
@@ -1119,17 +1123,53 @@ Key: "furniture_shelf_darkwood_8xsh"
 Old Value: "Darkwood High Shelf 4x2"
 New Value: "Darkwood High Shelf 4x2 with Drawers"
 
+Key: "furniture_shelf_darkwood_8xsh_description"
+Old Value: "I'm sure you once thought to yourself, \"Hmm… It would be really cool to have a big and high shelf from darkwood...\" Now is your chance to get one! We present you with our latest shelfs collection. It's all darkwood! You like darkwood, right? We reassure you that not too many trees suffered during the production of this fantastic piece of furniture."
+New Value: "I'm sure you once thought to yourself, \"Hmm... It would be really cool to have a big and high shelf from darkwood...\" Now is your chance to get one! We present you with our latest shelfs collection. It's all darkwood! You like darkwood, right? We reassure you that not too many trees suffered during the production of this fantastic piece of furniture."
+
 Key: "furniture_shelf_lightwood_8xsh"
 Old Value: "Lightwood High Shelf 4x2"
 New Value: "Lightwood High Shelf 4x2 with Drawers"
+
+Key: "furniture_shelf_lightwood_8xsh_description"
+Old Value: "I'm sure you once thought to yourself, \"Hmm… It would be really cool to have a big and high shelf from lightwood...\" Now is your chance to get one! We present you with our latest shelfs collection. It's all lightwood! You like lightwood, right? We reassure you that not too many trees suffered during the production of this fantastic piece of furniture."
+New Value: "I'm sure you once thought to yourself, \"Hmm... It would be really cool to have a big and high shelf from lightwood...\" Now is your chance to get one! We present you with our latest shelfs collection. It's all lightwood! You like lightwood, right? We reassure you that not too many trees suffered during the production of this fantastic piece of furniture."
 
 Key: "furniture_shelf_white_8xsh"
 Old Value: "White High Shelf 4x2"
 New Value: "White High Shelf 4x2 with Drawers"
 
+Key: "furniture_shelf_white_8xsh_description"
+Old Value: "I'm sure you once thought to yourself, \"Hmm… It would be really cool to have a white, big and high shelf...\" Now is your chance to get one! We present you with our latest shelfs collection. It's all white, like milk! You like milk, right? We reassure you that no cow suffered during the production of this fantastic piece of furniture."
+New Value: "I'm sure you once thought to yourself, \"Hmm... It would be really cool to have a white, big and high shelf...\" Now is your chance to get one! We present you with our latest shelfs collection. It's all white, like milk! You like milk, right? We reassure you that no cow suffered during the production of this fantastic piece of furniture."
+
 Key: "furniture_shelf_black_8xsh"
 Old Value: "Black High Shelf 4x2"
 New Value: "Black High Shelf 4x2 with Drawers"
+
+Key: "furniture_shelf_black_8xsh_description"
+Old Value: "I'm sure you once thought to yourself, \"Hmm… It would be really cool to have a black, big and high shelf...\" Now is your chance to get one! We present you with our latest shelfs collection. It's all black, like night! You like night, right? We reassure you that no night suffered during the production of this fantastic piece of furniture."
+New Value: "I'm sure you once thought to yourself, \"Hmm... It would be really cool to have a black, big and high shelf...\" Now is your chance to get one! We present you with our latest shelfs collection. It's all black, like night! You like night, right? We reassure you that no night suffered during the production of this fantastic piece of furniture."
+
+Key: "furniture_flat_cactus_description"
+Old Value: "We think something went wrong during the development of this particular batch of our cactuses and they grew flat… But you can still buy them! They have a lot of needles and when you touch them it's painful! Though if you like needle play, buy yourself some proper equipment and don't use cactuses!"
+New Value: "We think something went wrong during the development of this particular batch of our cactuses and they grew flat... But you can still buy them! They have a lot of needles and when you touch them it's painful! Though if you like needle play, buy yourself some proper equipment and don't use cactuses!"
+
+Key: "furniture_big_cactus_description"
+Old Value: "Wow! Look how big and thick it is! Mmm… We are sure your dirty mind has some ideas on how to use it, but we assure you it's better not to! If you like needle play, buy yourself some proper equipment and don't use cactuses!"
+New Value: "Wow! Look how big and thick it is! Mmm... We are sure your dirty mind has some ideas on how to use it, but we assure you it's better not to! If you like needle play, buy yourself some proper equipment and don't use cactuses!"
+
+Key: "furniture_oven_white_description"
+Old Value: "Tired of cold food and summer decoration? Nothing warms the kitchen like a white oven! The exciting dual-fuel design allows this wonder to be used with both the explosive power of natural gas and innovative electric currents. You can use it to heat up your pre-cooked meals or prepare your own!"
+New Value: "The way it's presented reminds us of an endless power struggle in our world, the four stoves trapped in an endless struggle for your attention... A difficult choice, but a necessary one. Which one will you trust to heat up your food?! Or will you get rid of all social norms and use all of them? The choice is yours!"
+
+Key: "furniture_darkwood_chair_description"
+Old Value: "This is a chair. A darkwood chair. You can use it to sit on it or to tie someone up. But remember to always have a safeword. And today's safeword is… BSOD! Because you are a programmer… And you will never use it…"
+New Value: "This is a chair. A darkwood chair. You can use it to sit on it or to tie someone up. But remember to always have a safeword. And today's safeword is... BSOD! Because you are a programmer... And you will never use it..."
+
+Key: "furniture_lightwood_chair_description"
+Old Value: "This is a chair. A lightwood chair. You can use it to sit on it or to tie someone up. But remember to always have a safeword. And today's safeword is… BSOD! Because you are a programmer… And you will never use it…"
+New Value: "This is a chair. A lightwood chair. You can use it to sit on it or to tie someone up. But remember to always have a safeword. And today's safeword is... BSOD! Because you are a programmer... And you will never use it..."
 
 Key: "interactive_event_global_financial_crisis_government_dotation_description"
 Old Value: "Due to the worrying situation on the national market, the government has prepared a special grant for companies to help them maintain financial stability and continue normal operations. They will pay you half of your earnings from previous <color=#FFF74B><b>6</b></color> months, but not less than <color=#FFF74B><b>10.000$</b></color>.\n\nThe only condition for receiving the donation is to not take any loans within the next year. You're seriously considering making this decision because the situation is getting worse but the inability to borrow money can be a shot in the knee."
