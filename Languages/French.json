@@ -609,6 +609,7 @@
 		{"key": "project_commission_review_deadline_almost_passed", "value": "<color=#ffffff>You were almost out of time for our commission, but we are glad you delivered it on time! </color>"},
 		{"key": "project_commission_review_deadline_fast_work", "value": "<color=#ffffff>Merci pour votre <color=#FFF74B><b>rapiditée d'execution</b></color> sur notre contrat ! Nous apprécions que vous ayez pu finir aussi vite. </color>"},
 		{"key": "project_commission_review_components_names_link", "value": " et {0}"},
+		{"key": "project_commission_review_components_names_double_link", "value": "{0} and {1}"},
 		{"key": "project_commission_review_unfinished_component", "value": "<color=#ffffff>Unfortunately <color=#E74C3C><b>{0}</b></color> component was not completed. {1}</color>"},
 		{"key": "project_commission_review_unfinished_components", "value": "<color=#ffffff>Unfortunately <color=#E74C3C><b>{0}</b></color> components were not finished! {1}</color>"},
 		{"key": "project_commission_review_complaiment_one", "value": "<color=#ffffff>Maintenant nous deverons trouver quelqu'un d'autre pour faire le travail à votre place. </color>"},
