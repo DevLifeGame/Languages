@@ -1024,6 +1024,10 @@ Key: "pet_tooltip_name"
 --- CHANGED LINES ---
 
 
+Key: "programming_component_no_employee_info_tooltip"
+Old Value: "Assign employee to this component."
+New Value: "Click to assign employee to this component."
+
 Key: "component_info_design_tooltip"
 Old Value: "Component <color=#9B59B6><b>design</b></color> points."
 New Value: "<color=#9B59B6><b>Design</b></color> points required to complete this component."
@@ -1080,6 +1084,10 @@ Key: "employee_trait_off_work_space_travel"
 Old Value: "Off Work: Space Travel"
 New Value: "Space Travel"
 
+Key: "workstation_select_employee_info_tooltip"
+Old Value: "Assign employee to this workstation."
+New Value: "Click to assign employee to this workstation."
+
 Key: "workstation_menu_send_on_vacation_button_tooltip"
 Old Value: "Employee is overworked. Click here to choose vacation option."
 New Value: "Click here to choose vacation option."
@@ -1087,6 +1095,10 @@ New Value: "Click here to choose vacation option."
 Key: "project_commission_review_not_started"
 Old Value: "<color=#ffffff>You didn't <color=#FFF74B><b>even bother</b></color> to start working on our commission! Do you have any idea how <color=#FFF74B><b>important</b></color> it was and how much money  we <color=#FFF74B><b>lost?!</b></color> </color>"
 New Value: "<color=#ffffff>You didn't <color=#FFF74B><b>even bother</b></color> to start working on our commission! Do you have any idea how <color=#FFF74B><b>important</b></color> it was and how much money we <color=#FFF74B><b>lost?!</b></color> </color>"
+
+Key: "search_panel_select_employee_info_tooltip"
+Old Value: "Assign employee to this search."
+New Value: "Click to assign employee to this search."
 
 Key: "employee_stats_design_tooltip"
 Old Value: "Employee <color=#9B59B6><b>design</b></color> stats."
