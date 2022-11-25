@@ -1333,7 +1333,7 @@
 		{"key": "furniture_unlocked_message_title", "value": "¡Nuevos muebles desbloqueados!"},
 		{"key": "furniture_unlocked_message_beginning", "value": "<size=22><color=#16A085><b>New Furniture Unlocked! </b></color></size>\n\nFollowing furniture has been unlocked:\n"},
 		{"key": "furniture_unlocked_message_category_header", "value": "\n<b>- {0}:</b>\n"},
-		{"key": "furniture_unlocked_message_value", "value": "   - {0}\n"},
+		{"key": "furniture_unlocked_message_value", "value": "<indent=6%>- {0}\n</indent>"},
 		{"key": "furniture_unlocked_message_ending", "value": "</b>\nPuedes verlos en el modo de construcción."},
 		{"key": "furniture_desk1_dark_wood_pc_4x3", "value": "Escritorio Darkwood con Monitor 4:3"},
 		{"key": "furniture_desk1_dark_wood_pc_4x3_description", "value": "This revolutionary darkwood desk was made by our skilled workers. Everything is done with great care and thought. Our little hands have worked out the smallest details in this desk, hoping for the best possible comfort of customers. Everything has been made from recycled noble wood, so there is no chance of any breakage or rapid worn-out."},

@@ -1333,7 +1333,7 @@
 		{"key": "furniture_unlocked_message_title", "value": "Открыта новая мебель!"},
 		{"key": "furniture_unlocked_message_beginning", "value": "<size=22><color=#16A085><b>Открыта новая мебель! </b></color></size>\n\nРазблокирована следующая мебель:\n"},
 		{"key": "furniture_unlocked_message_category_header", "value": "\n<b>- {0}:</b>\n"},
-		{"key": "furniture_unlocked_message_value", "value": "   - {0}\n"},
+		{"key": "furniture_unlocked_message_value", "value": "<indent=6%>- {0}\n</indent>"},
 		{"key": "furniture_unlocked_message_ending", "value": "</b>\nВы можете проверить их в режиме строительства."},
 		{"key": "furniture_desk1_dark_wood_pc_4x3", "value": "Cтол из тёмного дерева 4:3 монитор"},
 		{"key": "furniture_desk1_dark_wood_pc_4x3_description", "value": "Этот революционный письменный стол был изготовлен нашими профессионалами. Всё сделано продуманно и тщательно. Наши маленькие ручки проработали всё до мельчайших деталей, для удобства покупателей. Всё было сделано из переработанной благородной древесины, поэтому сделано на века."},
